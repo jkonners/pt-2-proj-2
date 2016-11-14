@@ -1,0 +1,27 @@
+body {
+    font-family: 'Open Sans', Sans-Serif;
+}
+
+div {
+    max-width: 900px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+
+p {
+    padding: 13px;
+
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+/* (5) In index.html, you assigned a class to the last div. */
+/* Use that class here */
+
+.red {
+    color: red;
+}
+
